@@ -1,6 +1,4 @@
-//cashRegister.c - sample code for lab1
-//
-// 17 Dec 2023
+//cashRegister.c 
 
 
 #include <stdio.h>//include the standard C input/output library
